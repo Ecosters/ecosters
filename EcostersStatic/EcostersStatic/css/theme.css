@@ -960,9 +960,9 @@ blockquote {
     top: 0;
 }
 .item-product-leading .info-price  span {
-    color: #e6e6e6;
+    color: #c2bebe;
     display: block;
-    font-size: 90px;
+    font-size: 55px;
     font-weight: 700;
     margin-bottom: -10px;
 }
@@ -8993,4 +8993,9 @@ span.click-button{
 }
 .team-rectang-thumb > img ,.team-circle-thumb > img {
     width: 100%;
+}
+
+.vendor-logo img {
+    width: 50%;
+    height: 50%;
 }
