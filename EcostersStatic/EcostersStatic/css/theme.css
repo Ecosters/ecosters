@@ -960,9 +960,9 @@ blockquote {
     top: 0;
 }
 .item-product-leading .info-price  span {
-    color: #e6e6e6;
+    color: #c2bebe;
     display: block;
-    font-size: 90px;
+    font-size: 55px;
     font-weight: 700;
     margin-bottom: -10px;
 }
@@ -2742,7 +2742,7 @@ Page Product List Mr
 	background:#1b1d1f;
 }
 
-.top-left .category {
+.category {
     display: inline-block;
 	position:relative;
 }
@@ -2750,20 +2750,24 @@ Page Product List Mr
 	position:absolute;
 }
 
-.top-left .category-link {
-    /*border-left: 1px solid rgba(255, 255, 255, 0.1);
-    border-right: 1px solid rgba(255, 255, 255, 0.1);*/
-    color: #fff;
+.category-link .last-category {
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+ .category-link {
+    /*border-left: 1px solid rgba(255, 255, 255, 0.1);*/
+    /*border-right: 1px solid rgba(255, 255, 255, 0.1);*/
+    color: white;
     display: block;
-    font-size: 10px;
+    font-size: 13px;
     height: 40px;
     line-height: 40px;
-    padding: 0 45px 0 20px;
+    padding: 0 45px 0 0px;
     position: relative;
-    /*text-transform: uppercase;*/
+    text-transform: uppercase;
 }
-.top-left .language-box:hover .category-link,.top-left .currency-box:hover .currency-link{
-	color:#999;
+.category-link,.top-left .currency-box:hover .currency-link{
+	color:white;
 }
 .top-left .category-link::after {
     font-family: linearicons;
@@ -8993,4 +8997,9 @@ span.click-button{
 }
 .team-rectang-thumb > img ,.team-circle-thumb > img {
     width: 100%;
+}
+
+.vendor-logo img {
+    width: 50%;
+    height: 50%;
 }

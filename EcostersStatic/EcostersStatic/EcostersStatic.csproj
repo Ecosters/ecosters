@@ -95,6 +95,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\featured-products\solar\flin-inverter.jpg" />
+    <Content Include="images\featured-products\solar\HEL-5800 LED Solar Light.jpg" />
+    <Content Include="images\featured-products\solar\Microtek Hybird Solar UPS.jpg" />
+    <Content Include="images\featured-products\solar\Souratech Solar Water Heater.jpg" />
+    <Content Include="images\featured-products\solar\Su-kam invertor.jpeg" />
+    <Content Include="images\featured-products\solar\Supreme-Solar-System-Solar-Water.jpg" />
+    <Content Include="images\featured-products\solar\Virat LED Solar Light.jpg" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -164,6 +171,16 @@
     <Content Include="images\banners\ecosters-garden.jpg" />
     <Content Include="images\banners\ecosters-kitchen.jpg" />
     <Content Include="images\banners\ecosters-solar.jpg" />
+    <Content Include="images\featured-products\garden\bio-manure.jpg" />
+    <Content Include="images\featured-products\garden\eco-bin.jpg" />
+    <Content Include="images\featured-products\garden\Falcon-Premium-Multigear-Hedge-Shear.jpg" />
+    <Content Include="images\featured-products\garden\garden-composter.jpg" />
+    <Content Include="images\featured-products\garden\garden-toolkit.jpg" />
+    <Content Include="images\featured-products\garden\nitrile-gloves.jpg" />
+    <Content Include="images\featured-products\garden\product-bulfyss garden scissors.jpg" />
+    <Content Include="images\featured-products\garden\vermicompost.jpg" />
+    <Content Include="images\featured-products\vendors\amazon-logo.ico" />
+    <Content Include="images\featured-products\vendors\snapdeal-logo.ico" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\cbpSplitLayout.js" />
