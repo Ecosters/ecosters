@@ -95,6 +95,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\featured-products\kitchen-dining\kitchen-dining-trashbag.jpg" />
     <Content Include="images\featured-products\solar\flin-inverter.jpg" />
     <Content Include="images\featured-products\solar\HEL-5800 LED Solar Light.jpg" />
     <Content Include="images\featured-products\solar\Microtek Hybird Solar UPS.jpg" />
