@@ -96,6 +96,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="images\featured-products\kitchen-dining\kitchen-dining-trashbag.jpg" />
+    <Content Include="images\featured-products\clothing\Cotton Khadi Tunic.jpg" />
+    <Content Include="images\featured-products\clothing\Ecofriendly black dress.jpg" />
+    <Content Include="images\featured-products\clothing\Kids Clown Print Cotton Pyjama Set.jpg" />
+    <Content Include="images\featured-products\clothing\Kids Little Tiara Rani Polo.jpg" />
+    <Content Include="images\featured-products\clothing\Organic black quilted jacket.jpg" />
+    <Content Include="images\featured-products\clothing\Organic embroidered sherwani.jpg" />
+    <Content Include="images\featured-products\clothing\Organic light brown Nehru jacket.jpg" />
+    <Content Include="images\featured-products\clothing\Organic royal blue shirt.jpg" />
     <Content Include="images\featured-products\solar\flin-inverter.jpg" />
     <Content Include="images\featured-products\solar\HEL-5800 LED Solar Light.jpg" />
     <Content Include="images\featured-products\solar\Microtek Hybird Solar UPS.jpg" />
@@ -208,6 +216,7 @@
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
