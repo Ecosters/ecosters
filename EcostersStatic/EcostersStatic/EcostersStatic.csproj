@@ -95,6 +95,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\featured-products\kitchen-dining\kitchen-dining-trashbag.jpg" />
     <Content Include="images\featured-products\clothing\Cotton Khadi Tunic.jpg" />
     <Content Include="images\featured-products\clothing\Ecofriendly black dress.jpg" />
     <Content Include="images\featured-products\clothing\Kids Clown Print Cotton Pyjama Set.jpg" />
