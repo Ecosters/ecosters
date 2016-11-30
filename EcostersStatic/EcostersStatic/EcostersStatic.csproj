@@ -95,6 +95,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="images\featured-products\kitchen-dining\Bajaj-ECooker.jpg" />
+    <Content Include="images\featured-products\kitchen-dining\greenBUGbag installed1-02.JPG" />
+    <Content Include="images\featured-products\kitchen-dining\Kicthen-Dining-CrockPot-Slow-Cooker.jpg" />
+    <Content Include="images\featured-products\kitchen-dining\kitchen-dining-reusable-paperbag.jpg" />
     <Content Include="images\featured-products\kitchen-dining\kitchen-dining-trashbag.jpg" />
     <Content Include="images\featured-products\clothing\Cotton Khadi Tunic.jpg" />
     <Content Include="images\featured-products\clothing\Ecofriendly black dress.jpg" />
@@ -104,6 +108,9 @@
     <Content Include="images\featured-products\clothing\Organic embroidered sherwani.jpg" />
     <Content Include="images\featured-products\clothing\Organic light brown Nehru jacket.jpg" />
     <Content Include="images\featured-products\clothing\Organic royal blue shirt.jpg" />
+    <Content Include="images\featured-products\kitchen-dining\panasonic-ecooker.jpeg" />
+    <Content Include="images\featured-products\kitchen-dining\philips-kettle.jpeg" />
+    <Content Include="images\featured-products\kitchen-dining\Printed_Jute.jpg" />
     <Content Include="images\featured-products\solar\flin-inverter.jpg" />
     <Content Include="images\featured-products\solar\HEL-5800 LED Solar Light.jpg" />
     <Content Include="images\featured-products\solar\Microtek Hybird Solar UPS.jpg" />
