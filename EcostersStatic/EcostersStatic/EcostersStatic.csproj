@@ -119,6 +119,7 @@
     <Content Include="images\featured-products\solar\Supreme-Solar-System-Solar-Water.jpg" />
     <Content Include="images\featured-products\solar\Virat LED Solar Light.jpg" />
     <Content Include="images\site\about-us.jpg" />
+    <Content Include="images\site\beta-sign.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
